@@ -1,13 +1,8 @@
-﻿/* Copyright 2017 yukkun007 */
-#include "target_other_project/queue.h"
+﻿/* Copyright 2017 mozkzki */
+#include "target_same_project/queue.h"
 #include <queue>
 
 namespace sample {
-
-// test codeを別プロジェクトとする場合、exportが必要
-// だが、template classは(ヘッダに実装しない限り)exportできない
-// 参考：https://qiita.com/Chironian/items/462a3bdf271d5f0b00b6
-// ↓ 明示的実体化で対処
 
 template <typename E>
 Queue<E>::Queue() {

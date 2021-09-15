@@ -1,4 +1,4 @@
-﻿/* Copyright 2017 yukkun007 */
+﻿/* Copyright 2017 mozkzki */
 #include "target_same_project/myadd.h"
 
 namespace sample {

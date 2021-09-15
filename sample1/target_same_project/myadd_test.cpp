@@ -1,8 +1,6 @@
-﻿/* Copyright 2017 yukkun007 */
-#include "target_other_project/myadd.h"
+﻿/* Copyright 2017 mozkzki */
+#include "target_same_project/myadd.h"
 #include "gtest/gtest.h"
-
-#pragma comment(lib, "target_other_project.lib")
 
 #ifdef _DEBUG
 #pragma comment(lib, "gtestd.lib")

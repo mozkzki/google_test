@@ -1,4 +1,4 @@
-﻿/* Copyright 2017 yukkun007 */
+﻿/* Copyright 2017 mozkzki */
 #pragma once
 
 namespace sample {

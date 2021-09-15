@@ -1,4 +1,4 @@
-﻿/* Copyright 2017 yukkun007 */
+﻿/* Copyright 2017 mozkzki */
 #pragma once
 #pragma warning(disable:4251)  // 有用でない警告をdisable
 

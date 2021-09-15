@@ -1,4 +1,4 @@
-﻿/* Copyright 2017 yukkun007 */
+﻿/* Copyright 2017 mozkzki */
 #include "target_other_project/queue.h"
 #include "gtest/gtest.h"
 
